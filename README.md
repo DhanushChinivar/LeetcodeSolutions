@@ -1,3 +1,3 @@
 # LeetcodeSolutions
 
-My persnal folder to track my answers
+My personal folder to track my answers
